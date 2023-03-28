@@ -109,7 +109,6 @@ export class App extends Component {
       totalHits,
       allPages,
       isLoading,
-      error,
       largePhoto,
       isModal,
     } = this.state;
